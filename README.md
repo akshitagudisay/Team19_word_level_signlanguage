@@ -1,4 +1,3 @@
-we used  WLASL dataset 
 About Dataset
 Context
 WLASL is the largest video dataset for Word-Level American Sign Language (ASL) recognition, which features 2,000 common different words in ASL. We hope WLASL will facilitate the research in sign language understanding and eventually benefit the communication between deaf and hearing communities.
